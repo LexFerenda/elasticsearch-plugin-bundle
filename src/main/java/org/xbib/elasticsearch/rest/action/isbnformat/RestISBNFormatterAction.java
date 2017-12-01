@@ -33,4 +33,8 @@ public class RestISBNFormatterAction extends BaseRestHandler {
         return channel -> client.execute(ISBNFormatAction.INSTANCE, isbnFormatRequest,
                     new RestStatusToXContentListener<>(channel));
     }
+
+    public String getName() {
+        return "ISBNFormatter";
+    }
 }

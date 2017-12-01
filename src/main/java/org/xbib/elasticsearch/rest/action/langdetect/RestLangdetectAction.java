@@ -68,4 +68,8 @@ public class RestLangdetectAction extends BaseRestHandler {
             withParser.accept(null);
         }
     }
+
+    public String getName() {
+        return "LangdetectAction";
+    }
 }

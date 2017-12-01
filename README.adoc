@@ -32,7 +32,7 @@ The plugin code in each plugin is equivalent to the code in this combined bundle
 [frame="all"]
 |===
 | Plugin version | Elasticsearch version | Release date
-| 6.0.0.0  | 6.0.0     | Jun  1, 2017
+| 5.6.4.0  | 5.6.4     | Dec  1, 2017
 | 5.4.1.0  | 5.4.0     | Jun  1, 2017
 | 5.4.0.1  | 5.4.0     | May 12, 2017
 | 5.4.0.0  | 5.4.0     | May  4, 2017
